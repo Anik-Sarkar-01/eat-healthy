@@ -1,0 +1,49 @@
+#home-page {
+    display: flex;
+    width: 100%;
+}
+.half-width {
+    width: 50%;
+}
+h1 {
+    font-size: 55px;
+    font-weight: 700;
+}
+#orange-colored {
+    color: #fb9249;
+}
+.gray-colored {
+    color: #6c6c6c;
+}
+.half-width img {
+    height: 650px;
+    padding-right: 87px;
+}
+.half-width.content {
+    padding-top: 176px;
+    padding-left: 250px;
+}
+.order-btn {
+    background-image: linear-gradient(#fb964b, #fe4b2f);
+    text-decoration: none;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 10px;
+}
+.paragraph {
+    margin-bottom: 50px;
+}
+#about-me-page {
+    display: flex;
+    width: 100%;
+    margin-top: 104px;
+    background-image:url(images/shapes/Frame\ 59.jpg);
+    background-size: contain;
+
+    
+}
+
+.female img {
+    margin-left: 75px;
+    height: 647px;
+}
